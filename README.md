@@ -1,2 +1,2 @@
-# discord.js---translator-bot
+# discord.js-translator-bot
 discord translator bot
