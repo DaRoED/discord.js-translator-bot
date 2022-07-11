@@ -7,8 +7,8 @@ const mkEmbed = require('./module/mkEmbed');
 
 const headers = {
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-    'X-Naver-Client-Id': 'YDb_kO8ZlDp5oebsTpKm',
-    'X-Naver-Client-Secret': 'u0n37wwlQr',
+    'X-Naver-Client-Id': 'client-id',
+    'X-Naver-Client-Secret': 'client-secret',
 };
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
